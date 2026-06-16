@@ -7,45 +7,45 @@
 ## Pages
 
 ### בית
-https://-76e5acfb.zappy5.app
+https://example.com
 חנות הסקווישים הכי שווה בישראל מחכה לכם! מאות דגמים מתוקים, רכים וצבעוניים במחירים נוחים. תשלום קל ומהיר דרך ביט. התחילו לאסוף עוד היום!
 
 ### אודות
-https://-76e5acfb.zappy5.app/about
+https://example.com/about
 הכירו את 💝סקושים💝 – בית לסקווישים הכי איכותיים ומיוחדים בארץ. אנחנו כאן כדי להביא לילדים ולאספנים חוויית קנייה כיפית, נגישה ומלאת צבע. בואו לגלות מי אנחנו!
 
 ### תשלום ואמון
-https://-76e5acfb.zappy5.app/payment-trust
+https://example.com/payment-trust
 משלמים רק בביט – הדרך הכי צעירה ובטוחה לקנות סקווישים אונליין בישראל. בלי כאב ראש, בלי דאגות. כל עסקה מאובטחת, פשוטה ושקופה. מתחילים לאסוף בביטחון!
 
 ### שאלות נפוצות ויצירת קשר
-https://-76e5acfb.zappy5.app/contact
+https://example.com/contact
 שאלות נפוצות על משלוחים, תשלום בביט או דגמים חדשים? צרו איתנו קשר בקלות! צוות 💝סקושים💝 זמין לעזור לכם בכל שלב בדרך לאוסף המושלם. כתבו לנו עכשיו!
 
 ### Products
-https://-76e5acfb.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - 💝סקושים💝
 
 ### Product Detail
-https://-76e5acfb.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - 💝סקושים💝
 
 ### Category
-https://-76e5acfb.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - 💝סקושים💝
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://-76e5acfb.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://-76e5acfb.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://-76e5acfb.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -73,8 +73,8 @@ E-commerce / Toys & Collectibles
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://-76e5acfb.zappy5.app/sitemap.xml
-- Robots: https://-76e5acfb.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://-76e5acfb.zappy5.app/llms-full.txt
-- Products (JSON): https://-76e5acfb.zappy5.app/products.json
-- Products (Google Merchant RSS): https://-76e5acfb.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
