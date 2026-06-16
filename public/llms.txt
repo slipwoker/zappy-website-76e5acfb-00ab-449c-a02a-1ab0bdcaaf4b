@@ -1,0 +1,80 @@
+# 💝סקושים💝 — Generative Engine Optimization Map
+
+> An online store specializing in squishies — a popular collectible toy category — offering a variety of types and styles. The store enables customers to browse products, add them to cart, and pay via Bit (Israeli mobile payment app), making it a youth-friendly and accessible shopping experience tailored to the Israeli market.
+
+---
+
+## Pages
+
+### בית
+https://-76e5acfb.zappy5.app
+חנות הסקווישים הכי שווה בישראל מחכה לכם! מאות דגמים מתוקים, רכים וצבעוניים במחירים נוחים. תשלום קל ומהיר דרך ביט. התחילו לאסוף עוד היום!
+
+### אודות
+https://-76e5acfb.zappy5.app/about
+הכירו את 💝סקושים💝 – בית לסקווישים הכי איכותיים ומיוחדים בארץ. אנחנו כאן כדי להביא לילדים ולאספנים חוויית קנייה כיפית, נגישה ומלאת צבע. בואו לגלות מי אנחנו!
+
+### תשלום ואמון
+https://-76e5acfb.zappy5.app/payment-trust
+משלמים רק בביט – הדרך הכי צעירה ובטוחה לקנות סקווישים אונליין בישראל. בלי כאב ראש, בלי דאגות. כל עסקה מאובטחת, פשוטה ושקופה. מתחילים לאסוף בביטחון!
+
+### שאלות נפוצות ויצירת קשר
+https://-76e5acfb.zappy5.app/contact
+שאלות נפוצות על משלוחים, תשלום בביט או דגמים חדשים? צרו איתנו קשר בקלות! צוות 💝סקושים💝 זמין לעזור לכם בכל שלב בדרך לאוסף המושלם. כתבו לנו עכשיו!
+
+### Products
+https://-76e5acfb.zappy5.app/products
+המוצרים שלנו - 💝סקושים💝
+
+### Product Detail
+https://-76e5acfb.zappy5.app/product/:slug
+פרטי המוצר - 💝סקושים💝
+
+### Category
+https://-76e5acfb.zappy5.app/category/:slug
+מוצרים - 💝סקושים💝
+
+## Legal & Policy
+
+### Privacy Policy
+https://-76e5acfb.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-76e5acfb.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-76e5acfb.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About 💝סקושים💝
+An online store specializing in squishies — a popular collectible toy category — offering a variety of types and styles. The store enables customers to browse products, add them to cart, and pay via Bit (Israeli mobile payment app), making it a youth-friendly and accessible shopping experience tailored to the Israeli market.
+
+## Target Audience
+- ילדים אספנים
+- הורים צעירים
+- אספני צעצועים
+
+## Industry
+E-commerce / Toys & Collectibles
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-76e5acfb.zappy5.app/sitemap.xml
+- Robots: https://-76e5acfb.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-76e5acfb.zappy5.app/llms-full.txt
+- Products (JSON): https://-76e5acfb.zappy5.app/products.json
+- Products (Google Merchant RSS): https://-76e5acfb.zappy5.app/product-feed.xml
